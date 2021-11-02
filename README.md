@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aidasmiler
 - 👀 I’m interested in learning a lot about programming
-- 🌱 I’m currently learning Engineering of Telecommunication @ **Escuela Técnica Superior de Ingenieros de Telecomunicación, UPM** 
+- 🌱 I’m currently learning Engineering of Telecommunication @ **ETSIT, UPM** 
 - 👩🏻‍💻 Coding @ **42Madrid**
 - 💞️ I’m looking to collaborate on whatever, everything is interesting to me :)
 - 📫 How to reach me: 
