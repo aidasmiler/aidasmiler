@@ -10,6 +10,7 @@
   - Via email: aida.rodriguez.perez.1211@gmail.com
   - Via Twitter: @aidasmiler
   - Via Instagram: @aidasmiler
+  - Via LinkedIn: https://www.linkedin.com/in/airodrig/
  
 <!---
 aidasmiler/aidasmiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
