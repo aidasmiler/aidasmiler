@@ -1,4 +1,4 @@
-<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/airodrig?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) -->
+[![airodrig's 42 stats](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 - 👋 Hi, I’m @aidasmiler
 - 👀 I’m interested in learning a lot about programming
 - 🌱 I’m currently learning Engineering of Telecommunication @ **ETSIT, UPM** 
