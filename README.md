@@ -10,14 +10,22 @@
 <!---
 [![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidasmiler&langs_count=8&theme=onedark&layout=compact)](https://github.com/aidasmiler?tab=repositories)
 --->
-
 - 📫 How to reach me: 
   - Via email: aida.rodriguez.perez.1211@gmail.com
   - Via Twitter: @aidasmiler
   - Via Instagram: @aidasmiler
   - Via LinkedIn: https://www.linkedin.com/in/airodrig/
  
-<!---
+ <!---
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidasmiler&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidasmiler&layout=compact&count_private=true" />
+</a>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidasmiler&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidasmiler&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <a href="https://linkedin.com/in/airodrig">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
