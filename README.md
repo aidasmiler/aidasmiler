@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m aidasmiler 👋 </h1>
 
-- 🌱 I’m currently learning & Embedded and Distributed Systems Software @ **ETSISI, UPM**
+- 🌱 I’m currently learning Embedded and Distributed Systems Software @ **ETSISI, UPM**
 - 👩🏻‍💻 Coding @ **42Madrid**
   - ➡️See my [42cursus progress](https://github.com/aidasmiler/42cursus)
  
