@@ -11,8 +11,8 @@
 --->
 - 📫 How to reach me: 
   - Via [email](mailto:aida.rodriguez.perez.1211@gmail.com)
-  - Via [Twitter](https://twitter.com/aidasmiler)
   - Via [LinkedIn](https://www.linkedin.com/in/airodrig/)
+  <!--- - Via [Twitter](https://twitter.com/aidasmiler) --->
  
  <!---
  <a href="https://github.com/anuraghazra/github-readme-stats">
